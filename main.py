@@ -1,7 +1,7 @@
 from telebot import TeleBot, types
 
 # ================= CONFIG =================
-BOT_TOKEN = "7922370408:AAE28OdF8UP-M8TtS4sdMackOIX3fu2Y2_E"
+BOT_TOKEN = "8249947917:AAEhVRrlVZK0bukQcERDf4T7Y40GD2Wz2Lo"
 
 CHANNEL_ID = None            # এখন channel ব্যবহার না করলে None রাখো
 GROUP_ID = -1003090825117   # তোমার group id
